@@ -7,3 +7,5 @@ This is super duper interesting.
 This too is interesting!
 
 Editing my document
+
+This is a commit for my lab assignment for Library Juice. 
