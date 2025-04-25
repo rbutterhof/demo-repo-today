@@ -3,11 +3,11 @@ some interesting notes
 Some more interesting notes that are important!
 
 This is super duper interesting. 
-New line added
+New line has been added
 
 This too is interesting!
 
-Editing my document
+Editing my awesome document
 
 This is a commit for my lab assignment for Library Juice. 
 Another new line. 
